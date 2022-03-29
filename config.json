@@ -1,0 +1,91 @@
+{
+    "access_token": "ya29.A0ARrdaM9XMbVJxfKznJxPGyV5q1QlCbMLy1_ipKlaRdcWdl6DVbP88-1eYOI3Y30CkHwcyVTydCaLJwLBoHN1YsNV5tW68ejXMXNKyBYhoMb1s2SMznF2CyPwAYjp2bdSpJYL2gmiFbTUh0nzacdBFqKqd6GG",
+    "account_list": [
+        {
+            "username": "vinybr",
+            "password": "690512",
+            "pic": "",
+            "auth": "zdl8yv8sy356y49z6hllpfx1vpltqggdahmb7jgns2mu05jsii"
+        },
+        {
+            "username": "visita",
+            "password": "visita",
+            "pic": "",
+            "auth": "qzodd2bypqao1ji26aj5wqc1eszdli1a9s814oyspcg0ndzqu3"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "false",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1RFPh9MAfhdjhV5bGFPCC0ktdOqWOpx5J",
+            "language": "pt",
+            "name": "Filmes",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1fNztEEx7LGItf2GcNQ6Xv3WXCWalDWbO",
+            "language": "pt",
+            "name": "Filmes",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1kZXfMv9xg9I2REffzvwCqi5I2PLoHCQ8",
+            "language": "pt",
+            "name": "Filmes",
+            "type": "Movies"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1suEX6cfRCdE0k-pQkaobpLLy9BwMdu2A",
+            "language": "pt",
+            "name": "Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1a8xub673Vly6SEt55KD0vim9XLc96UoV",
+            "language": "pt",
+            "name": "Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1fDl6Qk_EUC5Cpx2fZpcJRqWgnqQxB5QQ",
+            "language": "pt",
+            "name": "Series",
+            "type": "TV Shows"
+        }
+    ],
+    "client_id": "935742619209-0317uhk9ffd39ko5stgl33cukchv28jh.apps.googleusercontent.com",
+    "client_secret": "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",
+    "cloudflare": "",
+    "fetch_assets": true,
+    "refresh_token": "1//0h5hsmN4MvbBzCgYIARAAGBESNwF-L9IreB8l4chtc14aUScEQeyFyftDW7_hYY1qV2eQEY4AHgR3Xgle87PLc8XoF8eb_AHk1Y8",
+    "remove_duplicates": true,
+    "remove_no_poster": "false",
+    "secret_key": "oliborges",
+    "tmdb_api_key": "9f2fb8d1879f47ffbb901f19f7337c7c",
+    "token_expiry": "",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "transcoded": "true",
+    "service_accounts": [],
+    "signup": "false",
+    "ui_config": {
+        "custom_button": {},
+        "title": "Vini Flix"
+    }
+}
